@@ -6,3 +6,4 @@ pymetanalyzer/ncbi_data/.secrets/
 pymetanalyzer/ncbi_data/summary_genomes_json.csv
 #Avoid the data of the genomes
 pymetanalyzer/ncbi_data/genomes/*
+.vscode/
