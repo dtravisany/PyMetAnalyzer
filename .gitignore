@@ -1,0 +1,8 @@
+#Avoid the data of genome folder
+pymetanalyzer/ncbi_data/genome/*.zip
+#Avoid config.toml file
+pymetanalyzer/ncbi_data/.secrets/
+#Avoid the summary data
+pymetanalyzer/ncbi_data/summary_genomes_json.csv
+#Avoid the data of the genomes
+pymetanalyzer/ncbi_data/genomes/*
